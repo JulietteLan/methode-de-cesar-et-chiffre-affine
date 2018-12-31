@@ -61,8 +61,8 @@ while(convient==2):
     if(convient==1):
         print("BRAVO ! Vous avez decrypté le code!")
         
-        Chiffre affine
-        #Initialisation, entrée du mot et du décallage
+ #Chiffre affine
+ #Initialisation, entrée du mot et du décallage
 mot=input("Entrez le message: ")
 y=input("Entrez un decallage: ")
 y=int(y)
